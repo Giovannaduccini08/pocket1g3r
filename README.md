@@ -21,5 +21,4 @@ Busco aplicar esses conhecimentos em pequenos projetos para evoluir de forma con
 
 ## Como entrar em contato
 Você pode acessar meus links pelo meu linktree
-- GitHub: https://github.com/GiovannaDuccini08
 - Email: giovannaduccini08@gmail.com
