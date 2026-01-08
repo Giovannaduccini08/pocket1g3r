@@ -6,19 +6,13 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
 Atualmente estou estudando e praticando:
 - Estudando Python para desenvolvimento e automação  
 - Realizando cursos introdutórios de Inteligência Artificial  
-- Aprendendo lógica de programação, sistemas binários e álgebra booleana  
-- Estudando conceitos iniciais de redes neurais  
 
 Busco aplicar esses conhecimentos em pequenos projetos para evoluir de forma consistente.
 
 ## Ferramentas e conhecimentos
 - Python
-- HTML e CSS  
-- Git e GitHub  
+- HTML e CSS   
 - Lógica de Programação  
 - Fundamentos de Desenvolvimento de Sistemas  
 - Conceitos básicos de Inteligência Artificial  
 
-## Como entrar em contato
-Você pode acessar meus links pelo meu linktree
-- Email: giovannaduccini08@gmail.com
